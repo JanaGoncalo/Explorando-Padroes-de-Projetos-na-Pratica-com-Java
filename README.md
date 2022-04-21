@@ -4,4 +4,3 @@ Repositório com as implementações dos padrões de projeto explorados no Lab "
 - Singleton
 - Strategy
 - Facade
-# Explorando-Padroes-de-Projetos-na-Pratica-com-Java
